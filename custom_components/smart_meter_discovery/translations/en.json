@@ -1,0 +1,23 @@
+
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Konfiguriere MQTT Bridge",
+        "description": "Trage die Quell- und Ziel-Broker Informationen ein.",
+        "data": {
+          "source_broker": "Quell-Broker",
+          "source_port": "Quell-Port",
+          "source_user": "Quell-Benutzer",
+          "source_pass": "Quell-Passwort",
+          "source_topic": "Quell-Topic",
+          "target_broker": "Ziel-Broker",
+          "target_port": "Ziel-Port",
+          "target_user": "Ziel-Benutzer",
+          "target_pass": "Ziel-Passwort",
+          "target_topic": "Ziel-Topic"
+        }
+      }
+    }
+  }
+}

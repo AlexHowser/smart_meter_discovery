@@ -1,0 +1,13 @@
+{
+    "domain": "smart_meter_discovery",
+    "name": "Smart Meter Discovery Bridge",
+    "version": "1.0.0",
+    "config_flow": true,
+    "documentation": "https://github.com/yourorg/smart_meter_discovery",
+    "requirements": [
+        "paho-mqtt"
+    ],
+    "codeowners": [
+        "@yourgithubhandle"
+    ]
+}
